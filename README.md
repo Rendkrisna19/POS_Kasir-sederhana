@@ -2,7 +2,7 @@
 
 ![Laravel Logo](https://laravel.com/img/logomark.min.svg) 
 
-Welcome to the **Laravel Livewire** project! This project is built using **Laravel** as the backend and **Livewire** for seamless front-end interactions. 
+Welcome to the **POS_kasir-sederhana Laravel Livewire** project! This project is built using **Laravel** as the backend and **Livewire** for seamless front-end interactions. 
 
 ## Table of Contents
 
@@ -39,5 +39,16 @@ To get started with the project, follow these steps:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-project-name.git
+git clone https://github.com/Rendkrisna19/POS_Kasir-sederhana.git
 cd your-project-name
+
+- **Clone Repository**: Menyalin proyek dari GitHub ke lokal.
+- **Navigasi ke Direktori Proyek**: Masuk ke folder tempat proyek Anda berada.
+- **Install Dependencies**: Menginstal dependensi PHP yang dibutuhkan menggunakan Composer.
+- **Salin File `.env.example`**: Menyalin file konfigurasi `.env` untuk pengaturan database dan aplikasi.
+- **Generate Application Key**: Menghasilkan kunci aplikasi untuk aplikasi Laravel.
+- **Symlink untuk Storage**: Membuat tautan simbolik untuk direktori `storage`.
+- **Migrasi dan Seed Database**: Menjalankan migrasi database dan mengisi data awal dengan `--seed`.
+- **Jalankan Server**: Menjalankan server lokal menggunakan Artisan.
+
+
